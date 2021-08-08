@@ -337,8 +337,8 @@ endfun
 
 set background=dark
 
-call s:X("CursorLine","","1c1c1c","","",s:termBlack)
-call s:X("CursorColumn","","1c1c1c","","",s:termBlack)
+" call s:X("CursorLine","","1c1c1c","","",s:termBlack)
+" call s:X("CursorColumn","","1c1c1c","","",s:termBlack)
 
 " Some of Terminal.app's default themes have a cursor color
 " too close to nimda' preferred MatchParen background
@@ -412,12 +412,12 @@ hi! link Conceal Operator
 call s:X("Type","ffb964","","","Yellow","")
 call s:X("NonText","606060",s:background_color,"",s:termBlack,"")
 
-call s:X("SpecialKey","444444","1c1c1c","",s:termBlack,"")
+" call s:X("SpecialKey","444444","1c1c1c","",s:termBlack,"")
 
 call s:X("Search","f0a0c0","302028","underline","Magenta","")
 
 call s:X("Directory","dad085","","","Yellow","")
-call s:X("ErrorMsg","","902020","","","DarkRed")
+call s:X("ErrorMsg","","871919","","","DarkRed")
 hi! link Error ErrorMsg
 hi! link MoreMsg Special
 call s:X("Question","65C254","","","Green","")
@@ -425,10 +425,10 @@ call s:X("Question","65C254","","","Green","")
 
 " Spell Checking
 
-call s:X("SpellBad","","902020","underline","","DarkRed")
-call s:X("SpellCap","","0000df","underline","","Blue")
-call s:X("SpellRare","","540063","underline","","DarkMagenta")
-call s:X("SpellLocal","","2D7067","underline","","Green")
+call s:X("SpellBad","","871919","underline","","DarkRed")
+call s:X("SpellCap","","757575","underline","","Gray")
+call s:X("SpellRare","","6a2077","underline","","DarkMagenta")
+call s:X("SpellLocal","","4e7725","underline","","Green")
 
 " Diff
 
@@ -478,7 +478,7 @@ hi! link rubyString String
 hi! link rubyStringDelimiter StringDelimiter
 hi! link rubyInterpolationDelimiter Identifier
 
-call s:X("rubyRegexpDelimiter","540063","","","Magenta","")
+call s:X("rubyRegexpDelimiter","6a2077","","","Magenta","")
 call s:X("rubyRegexp","dd0093","","","DarkMagenta","")
 call s:X("rubyRegexpSpecial","a40073","","","Magenta","")
 
