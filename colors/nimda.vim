@@ -20,6 +20,11 @@ else
   let s:low_color = 1
 endif
 
+if !has('nvim')
+    set cursorline
+    set cursorlineopt=number
+endif
+
 " Configuration Variables:
 " - g:nimda_overrides          (default = {})
 " - g:nimda_use_lowcolor_black (default = 0)
@@ -377,7 +382,7 @@ call s:X("Visual","","404040","","",s:termBlack)
 call s:X("Cursor",s:background_color,"b0d0f0","","","")
 
 call s:X("LineNr","656565","","", "","")
-call s:X("CursorLineNr","ccc5c4","","NONE","White","")
+call s:X("CursorLineNr", "f7ca88", "", "bold", "White", "")
 call s:X("Comment","888888","","italic","Grey","")
 call s:X("Todo","c7c7c7","","bold","White",s:termBlack)
 
