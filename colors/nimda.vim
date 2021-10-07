@@ -370,9 +370,9 @@ endif
 call s:X("MatchParen",s:matchParenGuiFg,s:matchParenGuiBg,"bold",
 \                     s:matchParenTermFg,s:matchParenTermBg)
 
-call s:X("TabLine","f7ca88","151515","","",s:termBlack)
-call s:X("TabLineFill","151515","151515","","",s:termBlack)
-call s:X("TabLineSel","151515","f7ca88","bold",s:termBlack,"White")
+call s:X("TabLine","f7ca88","191919","","",s:termBlack)
+call s:X("TabLineFill","191919","191919","","",s:termBlack)
+call s:X("TabLineSel","191919","f7ca88","bold",s:termBlack,"White")
 
 " Auto-completion
 call s:X("Pmenu","eeeeee","212121","","White",s:termBlack)
