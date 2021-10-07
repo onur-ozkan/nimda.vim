@@ -371,7 +371,7 @@ call s:X("MatchParen",s:matchParenGuiFg,s:matchParenGuiBg,"bold",
 \                     s:matchParenTermFg,s:matchParenTermBg)
 
 call s:X("TabLine","f7ca88","151515","","",s:termBlack)
-call s:X("TabLineFill","151515","f7ca88","","",s:termBlack)
+call s:X("TabLineFill","151515","151515","","",s:termBlack)
 call s:X("TabLineSel","151515","f7ca88","bold",s:termBlack,"White")
 
 " Auto-completion
