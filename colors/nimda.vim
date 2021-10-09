@@ -383,7 +383,7 @@ call s:X("Cursor",s:background_color,"b0d0f0","","","")
 
 call s:X("LineNr","656565","","", "","")
 call s:X("CursorLineNr", "f7ca88", "", "bold", "White", "")
-call s:X("Comment","616161","","italic","Grey","")
+call s:X("Comment","818181","","italic","Grey","")
 call s:X("Todo","c7c7c7","","bold","White",s:termBlack)
 
 call s:X("StatusLine","191919","eeeeee","italic","","White")
@@ -565,6 +565,9 @@ if !exists("g:indent_guides_auto_colors")
 endif
 call s:X("IndentGuidesOdd","","212121","","","")
 call s:X("IndentGuidesEven","","191919","","","")
+
+" Tabbing
+hi VertSplit guifg=#f7ca88
 
 " Plugins, etc.
 
