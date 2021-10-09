@@ -50,6 +50,9 @@ Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/tru
    ```
 
 ## Preview
-![2021-10-09_20-42](https://user-images.githubusercontent.com/39852038/136668855-0fe1bbf7-6200-4a58-9114-1e3dcc9a2b2d.png)
-![2021-10-09_20-39](https://user-images.githubusercontent.com/39852038/136668858-33d55db3-0b8f-4f00-899b-82e5182775b3.png)
-![2021-10-09_20-34](https://user-images.githubusercontent.com/39852038/136668859-d8192193-5135-4c53-9986-66cec3fa1c0e.png)
+![2021-10-09_22-39](https://user-images.githubusercontent.com/39852038/136671906-a293a567-f657-410d-b60a-19fe5b43e22b.png)
+![2021-10-09_22-35](https://user-images.githubusercontent.com/39852038/136671899-fd7249c3-8d03-4a74-a351-63f57e93659c.png)
+![2021-10-09_22-36](https://user-images.githubusercontent.com/39852038/136671901-91f0d1bb-e0be-493a-b507-93ec37fcf531.png)
+![2021-10-09_22-37](https://user-images.githubusercontent.com/39852038/136671904-2a22a622-9275-4f8d-b294-731b8afd061a.png)
+![2021-10-09_22-38](https://user-images.githubusercontent.com/39852038/136671905-4e2c06e1-be35-4f31-85e4-8b54f8376475.png)
+
