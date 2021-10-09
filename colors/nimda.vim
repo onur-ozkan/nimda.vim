@@ -381,14 +381,14 @@ call s:X("PmenuSel","191919","eeeeee","",s:termBlack,"White")
 call s:X("Visual","","191919","","",s:termBlack)
 call s:X("Cursor",s:background_color,"b0d0f0","","","")
 
-call s:X("LineNr","656565","","", "","")
+call s:X("LineNr","616161","","", "","")
 call s:X("CursorLineNr", "f7ca88", "", "bold", "White", "")
 call s:X("Comment","818181","","italic","Grey","")
-call s:X("Todo","c7c7c7","","bold","White",s:termBlack)
+call s:X("Todo","dddddd","","bold","White",s:termBlack)
 
 call s:X("StatusLine","191919","eeeeee","italic","","White")
 call s:X("StatusLineNC","eeeeee","212121","italic","White","Black")
-call s:X("VertSplit","777777","212121","",s:termBlack,s:termBlack)
+call s:X("VertSplit","818181","212121","",s:termBlack,s:termBlack)
 call s:X("WildMenu","d75f5f","212121","","Magenta","")
 
 call s:X("Folded","dddddd","212121","italic",s:termBlack,"")
@@ -425,8 +425,8 @@ hi! link MoreMsg Special
 
 " Spell Checking
 
-call s:X("SpellBad","","741519","underline","","DarkRed")
-call s:X("SpellCap","","757575","underline","","Gray")
+call s:X("SpellBad","","992F33","underline","","DarkRed")
+call s:X("SpellCap","","818181","underline","","Gray")
 call s:X("SpellRare","","a293cb","underline","","")
 call s:X("SpellLocal","","87af5f","underline","","Green")
 
@@ -438,7 +438,7 @@ hi! link diffAdded String
 " VimDiff
 
 call s:X("DiffAdd","eeeeee","5a773d","","White","DarkGreen")
-call s:X("DiffDelete","d75f5f","741519","","Red","DarkRed")
+call s:X("DiffDelete","d75f5f","992F33","","Red","DarkRed")
 call s:X("DiffChange","","8197bf","","White","Blue")
 call s:X("DiffText","8197bf","191919","reverse","","")
 
