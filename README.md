@@ -6,7 +6,7 @@ Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/tru
 
 ## Installation
 
-1. Install the theme using your Vim plug-in manager of choice (or manually, by placing `colors/nimda.vim` in your `~/.vim/colors/` directory and `autoload/nimda.vim` in your `~/.vim/autoload/` directory.)
+1. Install the color scheme using your Vim plug-in manager of choice (or manually, by placing `colors/nimda.vim` in your `~/.vim/colors/` directory and `autoload/nimda.vim` in your `~/.vim/autoload/` directory.)
 
 
 2. If you use Vim in a terminal, the terminal 'must' support the True Color(24-bit) in order to have best experience from the color scheme. So, do the following to test whether your terminal emulator supports [24-bit/"true" color](https://gist.github.com/XVilka/8346728):
