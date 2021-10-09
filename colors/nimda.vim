@@ -361,7 +361,7 @@ else
     let s:matchParenGuiBg = "616161"
 endif
 if s:termBlack != "Black"
-    let s:matchParenTermFg = "87afd7"
+    let s:matchParenTermFg = "8197bf"
     let s:matchParenTermBg = ""
 else
     let s:matchParenTermFg = ""
@@ -405,11 +405,11 @@ call s:X("Delimiter","616161","","","Grey","")
 call s:X("String","87af5f","","","Green","")
 call s:X("StringDelimiter","5a773d","","","DarkGreen","")
 
-call s:X("Identifier","87afd7","","","Blue","")
-call s:X("Structure","87afd7","","","Blue","")
+call s:X("Identifier","8197bf","","","Blue","")
+call s:X("Structure","8197bf","","","Blue","")
 call s:X("Function","f7ca88","","","Yellow","")
 call s:X("Statement","8197bf","","","DarkBlue","")
-call s:X("PreProc","87afd7","","","Blue","")
+call s:X("PreProc","8197bf","","","Blue","")
 
 hi! link Operator Structure
 hi! link Conceal Operator
@@ -439,7 +439,7 @@ hi! link diffAdded String
 
 call s:X("DiffAdd","eeeeee","5a773d","","White","DarkGreen")
 call s:X("DiffDelete","d75f5f","741519","","Red","DarkRed")
-call s:X("DiffChange","","87afd7","","White","Blue")
+call s:X("DiffChange","","8197bf","","White","Blue")
 call s:X("DiffText","8197bf","191919","reverse","","")
 
 " PHP
@@ -463,16 +463,16 @@ hi! link pythonOperator Statement
 " Ruby
 
 hi! link rubySharpBang Comment
-call s:X("rubyClass","87afd7","","","Blue","")
+call s:X("rubyClass","8197bf","","","Blue","")
 call s:X("rubyIdentifier","a293cb","","","","")
 hi! link rubyConstant Type
 hi! link rubyFunction Function
 
 call s:X("rubyInstanceVariable","a293cb","","","","")
-call s:X("rubySymbol","87afd7","","","Blue","")
+call s:X("rubySymbol","8197bf","","","Blue","")
 hi! link rubyGlobalVariable rubyInstanceVariable
 hi! link rubyModule rubyClass
-call s:X("rubyControl","87afd7","","","Blue","")
+call s:X("rubyControl","8197bf","","","Blue","")
 
 hi! link rubyString String
 hi! link rubyStringDelimiter StringDelimiter
@@ -480,7 +480,7 @@ hi! link rubyInterpolationDelimiter Identifier
 
 call s:X("rubyRegexpDelimiter","a293cb","","","","")
 call s:X("rubyRegexp","d75f5f","","","Red","")
-call s:X("rubyRegexpSpecial","87afd7","","","","")
+call s:X("rubyRegexpSpecial","8197bf","","","","")
 
 call s:X("rubyPredefinedIdentifier","d75f5f","","","Red","")
 
