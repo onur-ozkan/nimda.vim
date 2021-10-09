@@ -418,7 +418,7 @@ call s:X("Type","a293cb","","","","")
 call s:X("NonText","616161",s:background_color,"",s:termBlack,"")
 call s:X("Search","87af5f","191919","underline","","")
 call s:X("Directory","f7ca88","","","Yellow","")
-call s:X("ErrorMsg","","d75f5f","","","Red")
+call s:X("ErrorMsg","212121","d75f5f","","Black","Red")
 call s:X("Question","87af5f","","","Green","")
 hi! link Error ErrorMsg
 hi! link MoreMsg Special
