@@ -19,7 +19,7 @@ Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/tru
    printf "\x1b[38;2;255;100;0mTRUECOLOR\x1b[0m\n"
    ```
 
-3. Add the following to your `~/.vimrc` (below any lines you may have added in steps 1 and 2):
+3. Add the following lines to your `.vimrc` or `init.vim`:
 
    ```vim
    syntax on
