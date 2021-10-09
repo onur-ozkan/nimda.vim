@@ -42,6 +42,12 @@ Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/tru
      endif
    endif
    ```
+3. Add the following to your `~/.vimrc` (below any lines you may have added in steps 1 and 2):
+
+   ```vim
+   syntax on
+   colorscheme nimda
+   ```
 
 ## Preview
 ![2021-10-09_20-42](https://user-images.githubusercontent.com/39852038/136668855-0fe1bbf7-6200-4a58-9114-1e3dcc9a2b2d.png)
