@@ -375,8 +375,8 @@ call s:X("TabLineFill","","","","",s:termBlack)
 call s:X("TabLineSel","191919","f7ca88","bold",s:termBlack,"White")
 
 " Auto-completion
-call s:X("Pmenu","eeeeee","212121","","White",s:termBlack)
-call s:X("PmenuSel","212121","eeeeee","",s:termBlack,"White")
+call s:X("Pmenu","eeeeee","191919","","White",s:termBlack)
+call s:X("PmenuSel","191919","eeeeee","",s:termBlack,"White")
 
 call s:X("Visual","","191919","","",s:termBlack)
 call s:X("Cursor",s:background_color,"b0d0f0","","","")
