@@ -27,7 +27,7 @@ Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/tru
    colorscheme nimda
    ```
 
-# Color References
+## Color References
 ![2021-10-09_23-55](https://user-images.githubusercontent.com/39852038/136673542-8dcfe5bc-4762-41f9-aba7-e1399d1ee800.png)
 ![2021-10-09_23-56](https://user-images.githubusercontent.com/39852038/136673565-fd4a13fe-ba2f-4a30-ae9e-3a9768190e9b.png)
 
