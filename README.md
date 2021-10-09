@@ -28,8 +28,8 @@ Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/tru
    ```
 
 ## Color References
-![2021-10-09_23-55](https://user-images.githubusercontent.com/39852038/136673542-8dcfe5bc-4762-41f9-aba7-e1399d1ee800.png)
-![2021-10-09_23-56](https://user-images.githubusercontent.com/39852038/136673565-fd4a13fe-ba2f-4a30-ae9e-3a9768190e9b.png)
+![2021-10-10_00-10](https://user-images.githubusercontent.com/39852038/136673888-9b59c245-9e70-4db4-9e2a-2b54cc437d9b.png)
+![2021-10-10_00-11](https://user-images.githubusercontent.com/39852038/136673887-e1487709-0a6e-473a-a46d-3152fb3710c9.png)
 
 ## Preview
 ![2021-10-09_22-39](https://user-images.githubusercontent.com/39852038/136671906-a293a567-f657-410d-b60a-19fe5b43e22b.png)
