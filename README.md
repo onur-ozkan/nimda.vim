@@ -1,8 +1,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/39852038/136669587-d21af0db-4f9a-4b3f-bc87-d61ffa31cc89.png" width="500" />
+  <br>
+  <br>
+  <p> Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals. </p>
 </div>
 
-Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals.
+## Color References
+![2021-10-10_00-10](https://user-images.githubusercontent.com/39852038/136673888-9b59c245-9e70-4db4-9e2a-2b54cc437d9b.png)
+![2021-10-10_00-11](https://user-images.githubusercontent.com/39852038/136673887-e1487709-0a6e-473a-a46d-3152fb3710c9.png)
 
 ## Installation
 
@@ -26,10 +31,6 @@ Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/tru
    set termguicolors
    colorscheme nimda
    ```
-
-## Color References
-![2021-10-10_00-10](https://user-images.githubusercontent.com/39852038/136673888-9b59c245-9e70-4db4-9e2a-2b54cc437d9b.png)
-![2021-10-10_00-11](https://user-images.githubusercontent.com/39852038/136673887-e1487709-0a6e-473a-a46d-3152fb3710c9.png)
 
 ## Preview
 ![2021-10-09_22-39](https://user-images.githubusercontent.com/39852038/136671906-a293a567-f657-410d-b60a-19fe5b43e22b.png)
