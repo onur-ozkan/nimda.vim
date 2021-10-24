@@ -20,11 +20,6 @@ else
   let s:low_color = 1
 endif
 
-if !has('nvim')
-    set cursorline
-    set cursorlineopt=number
-endif
-
 " Configuration Variables:
 " - g:nimda_overrides          (default = {})
 " - g:nimda_use_lowcolor_black (default = 0)
@@ -342,8 +337,8 @@ endfun
 
 set background=dark
 
-" call s:X("CursorLine","","1c1c1c","","",s:termBlack)
-" call s:X("CursorColumn","","1c1c1c","","",s:termBlack)
+call s:X("CursorLine","","191919","","",s:termBlack)
+call s:X("CursorColumn","","191919","","",s:termBlack)
 
 " Some of Terminal.app's default themes have a cursor color
 " too close to nimda' preferred MatchParen background
