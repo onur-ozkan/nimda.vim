@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/39852038/136669587-d21af0db-4f9a-4b3f-bc87-d61ffa31cc89.png" width="500" />
   <br>
   <br>
-  <p> Eye friendly, smooth and dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals. </p>
+  <p> Eye friendly and smooth dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals. </p>
 </div>
 
 ## Color References
