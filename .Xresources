@@ -1,0 +1,21 @@
+*.foreground:  #eeeeee
+*.background:  #191919
+*.cursorColor: #eeeeee
+
+*.color0:       #212121
+*.color1:       #992f33
+*.color2:       #87af5f
+*.color3:       #f7ca88
+*.color4:       #8197bf
+*.color5:       #a293cb
+*.color6:       #616161
+*.color7:       #dddddd
+*.color8:       #616161
+*.color9:       #992f33
+*.color10:      #87af5f
+*.color11:      #f7ca88
+*.color12:      #8197bf
+*.color13:      #a293cb
+*.color14:      #f7ca88
+*.color15:      #eeeeee
+
