@@ -362,7 +362,7 @@ else
     let s:matchParenTermFg = ""
     let s:matchParenTermBg = s:termBlack
 endif
-call s:X("MatchParen",s:matchParenGuiFg,s:matchParenGuiBg,"bold",
+call s:X("MatchParen",s:matchParenGuiFg,s:matchParenGuiBg,"",
 \                     s:matchParenTermFg,s:matchParenTermBg)
 
 call s:X("TabLine","f7ca88","191919","","",s:termBlack)
