@@ -1,5 +1,3 @@
-set background=dark
-
 hi clear
 
 if exists("syntax_on")
@@ -336,6 +334,7 @@ endfun
 " }}}
 
 set background=dark
+set cursorline cursorlineopt=number
 
 call s:X("CursorLine","","191919","","",s:termBlack)
 call s:X("CursorColumn","","191919","","",s:termBlack)
