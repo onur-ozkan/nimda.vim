@@ -2,9 +2,8 @@
   <img src="https://user-images.githubusercontent.com/39852038/136669587-d21af0db-4f9a-4b3f-bc87-d61ffa31cc89.png" width="500" />
   <h3> Eye friendly and smooth dark color scheme for vim. </h3>
   <br/>
-  <img src="https://user-images.githubusercontent.com/39852038/153603125-b3c75de3-b726-4a1f-b545-fa5a1cc929c7.png" width="750" />
+  <img src="https://user-images.githubusercontent.com/39852038/153703108-5e40a9ac-e3a2-43e1-a630-9a92a4454c1b.png" />
 </div>
-
 
 ## Color References
 ![2021-10-10_00-10](https://user-images.githubusercontent.com/39852038/136673888-9b59c245-9e70-4db4-9e2a-2b54cc437d9b.png)
