@@ -431,10 +431,10 @@ hi! link diffAdded String
 
 " VimDiff
 
-call s:X("DiffAdd","eeeeee","5a773d","","White","DarkGreen")
-call s:X("DiffDelete","d75f5f","992F33","","Red","DarkRed")
-call s:X("DiffChange","","8197bf","","White","Blue")
-call s:X("DiffText","8197bf","191919","reverse","","")
+hi DiffAdd guifg=NONE ctermfg=NONE guibg=#1F3932 ctermbg=NONE gui=NONE cterm=NONE
+hi DiffDelete guifg=NONE ctermfg=NONE guibg=#411E20 ctermbg=NONE gui=NONE cterm=NONE
+hi DiffChange guifg=NONE ctermfg=NONE guibg=#233943 ctermbg=NONE gui=NONE cterm=NONE
+hi DiffText guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 " PHP
 
