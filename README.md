@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/39852038/136669587-d21af0db-4f9a-4b3f-bc87-d61ffa31cc89.png" width="500" />
-  <h3> smoothest dark color scheme for vim </h3>
+  <h3> smooth dark color scheme for vim </h3>
   <br/>
   <img src="https://user-images.githubusercontent.com/39852038/153703108-5e40a9ac-e3a2-43e1-a630-9a92a4454c1b.png" />
 </div>
